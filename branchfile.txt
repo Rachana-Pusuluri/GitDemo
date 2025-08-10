@@ -1,1 +1,2 @@
 This is my first branch file
+This is a test for git diff
